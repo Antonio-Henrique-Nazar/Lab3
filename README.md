@@ -1,8 +1,10 @@
 # Lab3
+---
 2) Foi checado a corretude no prompt do Windows e o resultado foi que a multiplicação produz o mesmo resultado(esse teste foi efetuado diversas vezes para diferentes matrizes):
 "(Diretório)" fc.exe /b Saida SaidaC
 Comparando os arquivos Saida e SAIDAC
 FC: nenhuma diferença encontrada
+---
 3)
 O tempo de execução nas matrizes 500x500 foi de(usando 4 threads):
 Tempo de inicializa├º├úo 0.001539 segundos
