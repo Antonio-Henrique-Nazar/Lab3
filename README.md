@@ -1,6 +1,7 @@
 # Lab3
 
-2) Foi checado a corretude no prompt do Windows e o resultado foi que a multiplicação produz o mesmo resultado(esse teste foi efetuado diversas vezes para diferentes matrizes):
+2) 
+Foi checado a corretude no prompt do Windows e o resultado foi que a multiplicação produz o mesmo resultado(esse teste foi efetuado diversas vezes para diferentes matrizes):
 
 "(Diretório)" fc.exe /b Saida SaidaC
 
