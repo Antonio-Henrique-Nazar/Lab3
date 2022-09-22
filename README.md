@@ -1,8 +1,10 @@
 # Lab3
+---
 2) Foi checado a corretude no prompt do Windows e o resultado foi que a multiplicação produz o mesmo resultado(esse teste foi efetuado diversas vezes para diferentes matrizes):
 "(Diretório)" fc.exe /b Saida SaidaC
 Comparando os arquivos Saida e SAIDAC
 FC: nenhuma diferença encontrada
+---
 3)
 O tempo de execução nas matrizes 500x500 foi de(usando 4 threads):
 Tempo de inicializa├º├úo 0.001539 segundos
@@ -57,9 +59,12 @@ Tempo parte final 0.009736 segundos
 Tempo total 14.576244 segundos
 ---
 Média: 14.613000 segundos
+---
 4) Comparado com o lab2:
 Matriz 500x500: Ganho de desempenho: 2,9085 (resultado que foi observado no Lab2: 3.7893), um resultado bem diferente comparado com o Lab2.
 Matriz 1000x1000: Ganho de desempenho: 3,8963 (resultado que foi observado no Lab2: 3.9783), um resultado próximo do esperado.
 Matriz 2000x2000: Ganho de desempenho: 3,4574 (resultado que foi observado no Lab2: 4.0014), um resultado bem diferente comparado com o Lab2.
+---
 5)
 A máquina possui 12 unidades de processamento.
+---
